@@ -1,0 +1,25 @@
+.collectCorrect{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    
+    margin:1rem 
+}
+
+.collect{
+    width: 20%;
+    height: 20%;
+    margin: 1rem;
+}
+.imageDiv{
+    height: 80%;
+    width: 80%;
+}
+.imageDiv img{
+    height: 100%;
+    width: 100%;
+}
+.nativeNames{
+    display: flex;
+    flex-direction: column;
+}
